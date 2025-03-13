@@ -33,7 +33,8 @@ The **Number System Converter** is a Java-based application that allows users to
    *Add the project to eclipse project*
    
 4. **Compile the and run the code**:
-   ![Eclipse IDE](https://github.com/user-attachments/assets/aa3723a9-6d63-4263-8687-5eead3514452)
+   ![Eclipse IDE and sturcture of the folder](https://github.com/user-attachments/assets/72816dc6-c119-4a22-9bf4-1f5303c3d8a6)
+
 ## Usage
 
 - Enter a number in any field.
