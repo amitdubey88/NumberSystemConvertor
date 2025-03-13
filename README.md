@@ -4,7 +4,8 @@
 
 The **Number System Converter** is a Java-based application that allows users to convert numbers between different numeral systems, including **binary, octal, decimal, and hexadecimal**.
 
-![Number System Converter](https://ibb.co/cqCcnMZ)
+![Number System Convertor](https://github.com/user-attachments/assets/f0e1d5ee-9e00-40f3-b031-9e2b41d479df)
+
 
 ## Features
 
@@ -19,28 +20,20 @@ The **Number System Converter** is a Java-based application that allows users to
 
 - **Java Development Kit (JDK)**: Ensure you have JDK 8 or higher installed.  
   [Download JDK](https://www.oracle.com/java/technologies/javase-downloads.html)
-- **Eclipse (Java Compiler and Project Runner)** : Ensure you have Eclipse installed.
+- **Eclipse (IDE)** : Ensure you have Eclipse IDE installed.
 [Download Eclipse](https://www.eclipse.org/downloads/)
 
 ### Installation & Running
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/your-username/number-system-converter.git
+   git clone https://github.com/amitdubey88/NumberSystemConvertor.git
    ```
-2. **Navigate to the Project Directory**:
-   ```bash
-   cd number-system-converter
-   ```
-3. **Compile the Application**:
-   ```bash
-   javac com/example/converter/NumberSystemConverter.java
-   ```
-4. **Run the Application**:
-   ```bash
-   java com.example.converter.NumberSystemConverter
-   ```
-
+2. **Run Eclipse**:
+   *Add the project to eclipse project*
+   
+4. **Compile the and run the code**:
+   ![Eclipse IDE](https://github.com/user-attachments/assets/aa3723a9-6d63-4263-8687-5eead3514452)
 ## Usage
 
 - Enter a number in any field.
